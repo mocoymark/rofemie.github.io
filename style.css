@@ -26,6 +26,7 @@ body {
 }
 .page-wrapper {
   border-radius: 5px;
+  height: 300px !important;
 }
 .flipbook .hard {
   background: #fff !important;
