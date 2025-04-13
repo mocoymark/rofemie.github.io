@@ -113,8 +113,5 @@ button.nav-arrow:active {
   .flipbook {
     height: 300px !important;
   }
-  .page-wrapper {
-    border-radius: 5px;
-    height: 400px !important;
-  }
+
 }
